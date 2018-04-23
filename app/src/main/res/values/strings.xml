@@ -1,0 +1,17 @@
+<resources>
+    <!--Sign up Strings-->
+    <string name="app_name">GithinjiApp</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="username">Username</string>
+    <string name="password">Enter your password</string>
+    <string name="confirmPassword">Confirm your password</string>
+    <string name="haveAnAccount">Do you have an account? Sign In</string>
+    <string name="doNotHaveAnAccount">Do not have an account? Create one</string>
+    <string name="createAccount">Create Account</string>
+    <string name="login">Login</string>
+    <string name="title_activity_sign_in">SignIn</string>
+    <string name="title_activity_create_account">CreateAccount</string>
+    <string name="signIn">Sign In</string>
+
+</resources>
